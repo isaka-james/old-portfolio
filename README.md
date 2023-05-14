@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, cisco networkings**
 
-- 💬 Ask me about **bash, python, c, sysadmin, php, and IOT**
+- 💬 Ask me about **bash, python, c, sysadmin, php, rust, js and IOT**
 
 - ⚡ Fun fact **I like white hat.**
 
