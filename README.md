@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm masterplan</h1>
-<h3 align="center">A cyber security specialist | Back-End Designer from Tanzania.</h3>
+<h3 align="center">A Cyber Security Specialist | Back-End Designer </br>  From Tanzania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Profile%20views&color=0e75b6&style=flat" alt="reprogamaco" /> </p>
 
