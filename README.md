@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm masterplan</h1>
-<h3 align="center">A cyber security specialist from Tanzania.</h3>
+<h3 align="center">A cyber security specialist | Back-End Designer from Tanzania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Profile%20views&color=0e75b6&style=flat" alt="reprogamaco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reprogamaco" alt="reprogamaco" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, cisco networkings**
+- 🌱 I’m currently learning **AWS, cisco networkings**, **Rust**, **Rest-API**
 
 - 💬 Ask me about **bash, python, c, sysadmin, php, rust, js and IOT**
 
-- ⚡ Fun fact **I like white hat.**
+- ⚡ Fun fact **I like Tegulu Movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
