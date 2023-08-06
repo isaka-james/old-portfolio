@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **web design and web security**
-- ⚡ Fun fact: I enjoy Tegulu Movies
+- ⚡ Fun fact: I enjoy Vintage Movies
 
 ### Languages and Tools
 
