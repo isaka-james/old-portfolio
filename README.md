@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Masterplan</h1>
-  <h3>Back-End Designer from <a href='https://www.tanzania.go.tz/'>Tanzania</a></h3>
+  <h3>Back-End Web Designer from <a href='https://www.tanzania.go.tz/'>Tanzania</a></h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,9 +21,9 @@
 
 ### About Me
 
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **web design and web security**
-- ⚡ Fun fact: I enjoy Vintage Movies
+- 🌱 I’m currently learning **Flutter**
+- 💬 Ask me about **web design**,**app development** and **Web & App security**
+- ⚡ Fun fact: *I like to make Internet a better place*.
 
 ### Languages and Tools
 
@@ -85,6 +85,9 @@
   <a href='https://www.postgresql.org/'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40" />
   </a>
+    <a href='https://kotlinlang.org/'>
+    <img src="https://seeklogo.com/images/K/kotlin-logo-E4C9B2C4CF-seeklogo.com.png" alt="kotlin" width="100" height="40" />
+  </a>
 </p>
 
 ### Notable Websites
@@ -93,17 +96,15 @@ Welcome to my realm of digital craftsmanship. Here, I present a collection of we
 
 | Website                         | Description                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| [Ardent Hope](https://kicharita.000webhostapp.com)               | Venture into the realm of stories, where authors and readers converge.                        |
-|                                 | A platform that celebrates the art of storytelling, connecting imagination with eager minds.  |
-| [Ardent Hope - Charity Edition](https://ardenthope.vercel.app)   | A digital abode for compassion and goodwill.                                                 |
+| [Ardent Hope - Charity Edition](https://ardenthope.vercel.app)   | A charity website, save the children through donations.                                                  |
 |                                 | Join hands with us in making a difference as we unite for noble causes through this platform. |
-| [Lyrichub TZ](https://lyrichubtz.000webhostapp.com)               | Immerse yourself in a symphony of words and melodies.                                        |
+| [Lyrichub TZ](https://lyrichubtz.000webhostapp.com)               | A music lyrics and audio downloading site.                                       |
 |                                 | Experience music like never before, where lyrics take center stage, and songs come alive.     |
 | [UdomSR2 Replica](https://udomsr2.000webhostapp.com)              | Step into an academic realm, meticulously recreated.                                         |
 |                                 | Journey through the digital corridors of a university system, echoing with the essence of education. |
-| [Yusuph Event Planners](https://yusuph-event-planners.vercel.app)| Where dreams become events. Witness the seamless fusion of creativity and planning.          |
+| [Yusuph Event Planners](https://yusuph-event-planners.vercel.app)| A Event Planners website. |
 |                                 | Curate moments that etch memories for a lifetime.                                           |
-| [My Portfolio](https://reprogamaco.github.io)                     | Embark on a journey through time. Explore my very first significant project.                   |
+| [My Portfolio](https://reprogamaco.github.io)                     | My portfolio website, contact me through this website.                   |
 |                                 | A portfolio that stands as a testament to my growth and evolution.                            |
 
 These websites are not mere URLs; they are digital narratives, each carrying a piece of my dedication and innovation. Explore, engage, and experience the essence of my craftsmanship.
@@ -111,6 +112,17 @@ These websites are not mere URLs; they are digital narratives, each carrying a p
 > "In the world of web, every URL is a doorway to a unique experience, and I've woven each experience with care."
 
 — Masterplan
+
+
+### Apps
+
+Apparently I found myself developing awesome apps, same spirit of **awesome UI** and great **performance**. Here are my list of current apps:
+
+| App                         | Description                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------|
+| [Cafeterion](https://github.com/reprogamaco)   | A Food Delivery App (*still on development*)                                   |
+|                                 | This is the app I developed through the college holiday ( end of the year **2023** ), The customers just order the food from the delivery guys, and the food follows them.   |
+
 
 ### GitHub Stats
 
