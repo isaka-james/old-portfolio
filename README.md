@@ -85,8 +85,11 @@
   <a href='https://www.postgresql.org/'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40" />
   </a>
-    <a href='https://kotlinlang.org/'>
+  <a href='https://kotlinlang.org/'>
     <img src="https://seeklogo.com/images/K/kotlin-logo-E4C9B2C4CF-seeklogo.com.png" alt="kotlin" width="100" height="40" />
+  </a>
+  <a href='https://laravel.com/'>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" alt="laravel" width="100" height="40" />
   </a>
 </p>
 
