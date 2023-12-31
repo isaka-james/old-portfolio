@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *I like to make Internet a better place*.
+- ⚡ Fun fact: *There are more projects in private mode*.
 
 ### Languages and Tools
 
@@ -123,7 +123,7 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
 
 | App                         | Description                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| [Cafeterion](https://github.com/reprogamaco)   | A Food Delivery App (*still on development*)                                   |
+| [Cafeterion](https://github.com/reprogamaco)   | A Food Delivery App                                    |
 |                                 | This is the app I developed through the college holiday ( end of the year **2023** ), The customers just order the food from the delivery guys, and the food follows them.   |
 
 
