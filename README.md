@@ -123,8 +123,10 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
 
 | App                         | Description                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| [Cafeterion](https://github.com/reprogamaco)   | A Food Delivery App                                    |
-|                                 | This is the app I developed through the college holiday ( end of the year **2023** ), The customers just order the food from the delivery guys, and the food follows them.   |
+| [Cafeterion](https://github.com/reprogamaco/cafeterion-customers-app)   | A Food ordering android application                                    |
+|                                 | Customers place orders with delivery personnel, and their food is promptly delivered to their location.  |
+| [Cafe](https://github.com/reprogamaco/cafe-owner-android-application)   | A Owner/Deliver android application for managing orders                |
+|                                  | This app empowers owners and delivery staff to manage orders, update the menu, optimize deliveries, and add new products to the system effortlessly.                |
 
 
 ### GitHub Stats
