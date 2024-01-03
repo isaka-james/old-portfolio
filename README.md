@@ -104,6 +104,8 @@ Welcome to my realm of digital craftsmanship. Here, I present a collection of we
 |---------------------------------|-----------------------------------------------------------------------------------------------|
 | [Ardent Hope - Charity Edition](https://ardenthope.vercel.app)   | A charity website, save the children through donations.                                                  |
 |                                 | Join hands with us in making a difference as we unite for noble causes through this platform. |
+| [SecondLife Marketplace - Online Shopping](https://github.com/reprogamaco/secondlifemarketplace)   | A Full Stack online-Shopping Web App in JakartaEE(Java).|
+|                                 | A web application that allows users to post their used products for sale and enables others to browse, buy, and leave comments. To participate in buying or selling, users must first register on the platform.High security is implemented. |
 | [Lyrichub TZ](https://lyrichubtz.000webhostapp.com)               | A music lyrics and audio downloading site.                                       |
 |                                 | Experience music like never before, where lyrics take center stage, and songs come alive.     |
 | [UdomSR2 Replica](https://udomsr2.000webhostapp.com)              | Step into an academic realm, meticulously recreated.                                         |
