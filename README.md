@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *There are more projects in private mode than are in public * 😂.
+- ⚡ Fun fact: *There are more projects in private mode than are in public* 😂.
 
 ### Languages and Tools
 
