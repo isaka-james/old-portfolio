@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Masterplan</h1>
-  <h3>Back-End Web Designer from <a href='https://www.tanzania.go.tz/'>Tanzania</a></h3>
+  <h3>Back-End Web & App Developer from <a href='https://www.tanzania.go.tz/'>Tanzania</a></h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **.NET**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *I don't like using JavaScript, but I have to.. can't imagine I am using angular and React (javascript hater)* 😂.
+- ⚡ Fun fact: *I'm JavaScript hater still coding some projects in Angular and ReactJS* 😂.
 
 ### Languages and Tools
 
