@@ -13,17 +13,17 @@
   </p>
   
   <p>
-    <a href="https://twitter.com/reprogamaco" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" alt="Twitter" width="40" height="40" />
+    <a href="www.linkedin.com/in/isaac-james-0297a8247" target="_blank">
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Linkenin" width="120" height="40" />
     </a>
   </p>
 </div>
 
 ### About Me
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.NET**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *There are more projects in private mode than are in public* 😂.
+- ⚡ Fun fact: *I don't like using JavaScript, but I have to.. can't imagine I am using angular and React (javascript hater)* 😂.
 
 ### Languages and Tools
 
@@ -90,6 +90,9 @@
   </a>
   <a href='https://angular.io/' title="since January 2024">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular " width="100" height="40" />
+  </a>
+  <a href='https:flutter.dev/' title="since August 2023">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter " width="100" height="40" />
   </a>
 </p>
 
