@@ -58,6 +58,9 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" title=" since 2022">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
   </a>
+  <a href="https://tensorflow.org/" target="_blank" rel="noreferrer" title=" since 2022">
+    <img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" width="40" height="40" />
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title=" since 2015">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
   </a>
