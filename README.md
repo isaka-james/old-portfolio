@@ -98,7 +98,7 @@
 
 ### Notable Websites
 
-Welcome to my realm of digital craftsmanship. Here, I present a collection of websites that reflect my creative journey and technical prowess:
+Welcome to my realm of digital craftsmanship. I have made alot of websites.Here, I present a collection of only the notable websites that reflect my creative journey and technical prowess:
 
 | Website                         | Description                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
@@ -112,8 +112,8 @@ Welcome to my realm of digital craftsmanship. Here, I present a collection of we
 |                                 | Journey through the digital corridors of a university system, echoing with the essence of education. |
 | [Yusuph Event Planners](https://yusuph-event-planners.vercel.app)| A Event Planners website. |
 |                                 | Curate moments that etch memories for a lifetime.                                           |
-| [My Portfolio](https://reprogamaco.github.io)                     | My portfolio website, contact me through this website.                   |
-|                                 | A portfolio that stands as a testament to my growth and evolution.                            |
+| [Online Translator](https://translator-angular.vercel.app/)                     | The site made in angular for translating real time texts.                  |
+|                                 | Inspired by google translate, I made a backend api for translating using Flask, then intergrating with this angular web application.                           |
 
 These websites are not mere URLs; they are digital narratives, each carrying a piece of my dedication and innovation. Explore, engage, and experience the essence of my craftsmanship.
 
