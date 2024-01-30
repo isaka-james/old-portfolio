@@ -21,7 +21,7 @@
 
 ### About Me
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **GO**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
 - ⚡ Fun fact: *I'm JavaScript hater still coding some projects in Angular and ReactJS* 😂.
 
