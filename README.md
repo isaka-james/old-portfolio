@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **GO**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *I hate interview* .
+- ⚡ Fun fact: *We All Gonna Die* .
 
 ### Languages and Tools
 
