@@ -97,6 +97,12 @@
   <a href='https:flutter.dev/' title="since August 2023">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter " width="100" height="40" />
   </a>
+    <a href='https://actix.rs/' title="since December 2023">
+    <img src="https://actix.rs/img/logo.png" alt="Actix " width="40" height="40" />
+  </a>
+    <a href='https://go.dev/' title="since January 2024">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Golang " width="100" height="40" />
+  </a>
 </p>
 
 ### Notable Websites
