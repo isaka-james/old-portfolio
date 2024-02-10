@@ -13,7 +13,7 @@
   </p>
   
   <p>
-    <a href="www.linkedin.com/in/isaac-james-0297a8247" target="_blank">
+    <a href="https://www.linkedin.com/in/isaac-james-0297a8247" target="_blank">
       <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Linkenin" width="120" height="40" />
     </a>
   </p>
