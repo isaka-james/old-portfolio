@@ -40,6 +40,9 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="since 2019">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c " width="40" height="40" />
   </a>
+    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer" title="since 2016">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="c++ " width="40" height="40" />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="since 2016">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 " width="40" height="40" />
   </a>
