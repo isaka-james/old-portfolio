@@ -25,6 +25,11 @@
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
 - ⚡ Fun fact: *We All Gonna Die* .
 
+#### My Favourite Quote:
+> "Try to be useful"
+— Elon Musk
+
+
 ### Languages and Tools
 
 <p align="left">
@@ -131,10 +136,6 @@ Welcome to my realm of digital craftsmanship. I have made alot of websites.Here,
 |                                 | Inspired by google translate, I made a backend api for translating using Flask, then intergrating with this angular web application.                           |
 
 These websites are not mere URLs; they are digital narratives, each carrying a piece of my dedication and innovation. Explore, engage, and experience the essence of my craftsmanship.
-
-> "In the world of web, every URL is a doorway to a unique experience, and I've woven each experience with care."
-
-— Masterplan
 
 
 ### Apps
