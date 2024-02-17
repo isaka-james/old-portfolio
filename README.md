@@ -106,6 +106,9 @@
     <a href='https://go.dev/' title="since January 2024">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Golang " width="100" height="40" />
   </a>
+  <a href='https://wordpress.org/' title="since February 2024">
+    <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" alt="wordpress " width="100" height="50" />
+  </a>
 </p>
 
 ### Notable Websites
