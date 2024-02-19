@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Masterplan 💻</h1>
-  <h3>A Small  Act of Kindness from <a href='https://www.tanzania.go.tz/'>Tanzania 🇹🇿</a></h3>
+  <h3>A Small  Act of Kindness from <a href='https://www.mbeya.go.tz/'>Mbeya 🇹🇿</a></h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
