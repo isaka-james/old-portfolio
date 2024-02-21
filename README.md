@@ -3,12 +3,12 @@
   <h3>A Small  Act of Kindness from <a href='https://www.mbeya.go.tz/'>Mbeya 🇹🇿</a></h3>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=reprogamaco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=isaka-james&label=Profile%20views&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
   </p>
   
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=reprogamaco" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=isaka-james" alt="GitHub Trophies" />
     </a>
   </p>
   
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **GO**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *We All Gonna Die* .
+- ⚡ Fun fact: *You know it's your lucky day, when it runs on the first try ⚡* .
 
 #### My Favourite Quote:
 > "Try to be useful"
@@ -124,7 +124,7 @@ Welcome to my realm of digital craftsmanship. I have made alot of websites.Here,
 |---------------------------------|-----------------------------------------------------------------------------------------------|
 | [Ardent Hope - Charity Edition](https://ardenthope.vercel.app)   | A charity website, save the children through donations.                                                  |
 |                                 | Join hands with us in making a difference as we unite for noble causes through this platform. |
-| [SecondLife Marketplace - Online Shopping](https://github.com/reprogamaco/secondlifemarketplace)   | A Full Stack online-Shopping Web App in JakartaEE(Java).|
+| [SecondLife Marketplace - Online Shopping](https://github.com/isaka-james/secondlifemarketplace)   | A Full Stack online-Shopping Web App in JakartaEE(Java).|
 |                                 | A web application that allows users to post their used products for sale and enables others to browse, buy, and leave comments. To participate in buying or selling, users must first register on the platform.High security is implemented. |
 | [Lyrichub TZ](https://lyrichubtz.000webhostapp.com)               | A music lyrics and audio downloading site.                                       |
 |                                 | Experience music like never before, where lyrics take center stage, and songs come alive.     |
@@ -144,18 +144,18 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
 
 | App                         | Description                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------|
-| [Cafeterion](https://github.com/reprogamaco/cafeterion-customers-app)   | A Food ordering android application                                    |
+| [Cafeterion](https://github.com/isaka-james/cafeterion-customers-app)   | A Food ordering android application                                    |
 |                                 | Customers place orders with delivery personnel, and their food is promptly delivered to their location.  |
-| [Cafe](https://github.com/reprogamaco/cafe-owner-android-application)   | A Owner/Deliver android application for managing orders                |
+| [Cafe](https://github.com/isaka-james/cafe-owner-android-application)   | A Owner/Deliver android application for managing orders                |
 |                                  | This app empowers owners and delivery staff to manage orders, update the menu, optimize deliveries, and add new products to the system effortlessly.                |
 
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reprogamaco&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaka-james&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reprogamaco&langs_count=8)](https://github.com/reprogamaco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-james&langs_count=8)](https://github.com/isaka-james/github-readme-stats)
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reprogamaco" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-james" alt="GitHub Streak" />
 </p>
