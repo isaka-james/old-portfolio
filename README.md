@@ -30,17 +30,14 @@
 — Elon Musk
 
 
-### Languages and Tools
+### Languages
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="since 2018">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="java " width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="since 2016">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="javascript " width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="since 2019">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap " width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="since 2019">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c " width="40" height="40" />
@@ -51,6 +48,29 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="since 2016">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3 " width="40" height="40" />
   </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="since 2016">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php " width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="since 2016">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " width="40" height="40" />
+  </a>
+  <a href='https://www.rust-lang.org/' title="since 2022">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust " width="40" height="40" />
+  </a>
+  <a href='https://kotlinlang.org/' title="since July 2022">
+    <img src="https://seeklogo.com/images/K/kotlin-logo-E4C9B2C4CF-seeklogo.com.png" alt="kotlin " width="100" height="40" />
+  </a>
+ <a href='https://go.dev/' title="since January 2024">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Golang " width="100" height="40" />
+  </a>
+
+</p>
+
+### Frameworks and Tools
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="since 2019">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap " width="40" height="40" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="since 2019">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git " width="40" height="40" />
   </a>
@@ -60,23 +80,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="since 2017">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql " width="40" height="40" />
   </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" title=" since 2017">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" title=" since 2022">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
   </a>
   <a href="https://tensorflow.org/" target="_blank" rel="noreferrer" title=" since 2022">
     <img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title=" since 2015">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="since 2016">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php " width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="since 2016">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " width="40" height="40" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="since 2021">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn " width="40" height="40" />
@@ -87,14 +95,8 @@
   <a href='https://flask.palletsprojects.com' title="since 2022">
     <img src="https://www.nicepng.com/png/detail/98-984992_flask-web-framework.png" alt="flask " width="40" height="40" />
   </a>
-  <a href='https://www.rust-lang.org/' title="since 2022">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust " width="40" height="40" />
-  </a>
   <a href='https://www.postgresql.org/' title="since 2022">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgresql " width="40" height="40" />
-  </a>
-  <a href='https://kotlinlang.org/' title="since July 2022">
-    <img src="https://seeklogo.com/images/K/kotlin-logo-E4C9B2C4CF-seeklogo.com.png" alt="kotlin " width="100" height="40" />
   </a>
   <a href='https://laravel.com/' title="since August 2023">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" alt="laravel " width="100" height="40" />
@@ -105,15 +107,13 @@
   <a href='https:flutter.dev/' title="since August 2023">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter " width="100" height="40" />
   </a>
-    <a href='https://actix.rs/' title="since December 2023">
+  <a href='https://actix.rs/' title="since December 2023">
     <img src="https://actix.rs/img/logo.png" alt="Actix " width="40" height="40" />
-  </a>
-    <a href='https://go.dev/' title="since January 2024">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Golang " width="100" height="40" />
   </a>
   <a href='https://wordpress.org/' title="since February 2024">
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" alt="wordpress " width="100" height="50" />
   </a>
+
 </p>
 
 ### Notable Websites
