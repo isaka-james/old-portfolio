@@ -8,7 +8,7 @@
   
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=isaka-james&no-frame=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Isaka-James Github's Showcase" />
+      <img src="https://github-profile-trophy.vercel.app/?username=isaka-james&no-frame=true&no-frame=true&column=5&margin-w=15&margin-h=15" alt="Isaka-James Github's Showcase" />
     </a>
   </p>
   
