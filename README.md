@@ -110,6 +110,9 @@
   <a href='https://wordpress.org/' title="since February 2024">
     <img src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-4.png" alt="wordpress " width="100" height="50" />
   </a>
+    <a href='https://picoctf.org/' title="since 2022">
+    <img src="https://www.cylab.cmu.edu/_files/images/news/2023/0220-hd-picoctf-logo-fix.jpg" alt="picoCTF " width="100" height="40" />
+  </a>
 
 </p>
 
