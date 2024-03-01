@@ -67,6 +67,9 @@
  <a href='https://go.dev/' title="since January 2024">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="Golang " width="100" height="40" />
   </a>
+  <a href='https://editsvgcode.com/' title="since January 2017">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/2048px-SVG_Logo.svg.png" alt="svg " width="50" height="50" />
+  </a>
 
 </p>
 
@@ -121,7 +124,7 @@
     <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" alt="picoCTF " width="60" height="60" />
   </a>
   <a href='https://jakarta.ee/' title="since 2023">
-    <img src="https://blog.payara.fish/hs-fs/hubfs/jakarta%20ee-1.jpg?width=403&name=jakarta%20ee-1.jpg" alt="picoCTF " width="60" height="60" />
+    <img src="https://blog.payara.fish/hs-fs/hubfs/jakarta%20ee-1.jpg?width=403&name=jakarta%20ee-1.jpg" alt="picoCTF " width="100" height="60" />
   </a>
 
 </p>
