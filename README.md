@@ -5,18 +5,19 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=isaka-james&label=Profile%20views&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
   </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/isaac-james-0297a8247" target="_blank">
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Linkenin" width="60" height="20" />
+    </a>
+  </p>
   
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=isaka-james&no-frame=true&no-frame=true&column=5&margin-w=15&margin-h=15" alt="Isaka-James Github's Showcase" />
+      <img src="https://github-profile-trophy.vercel.app/?username=isaka-james&title=Commits,Followers,Stars,Repositories,MultiLanguage,Experience&column=3" alt="Isaka-James Github's Showcase" />
     </a>
   </p>
   
-  <p>
-    <a href="https://www.linkedin.com/in/isaac-james-0297a8247" target="_blank">
-      <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Linkenin" width="120" height="40" />
-    </a>
-  </p>
 </div>
 
 ### About Me 🤵‍♂️
@@ -118,6 +119,9 @@
   </a>
   <a href='https://picoctf.org/' title="since 2022">
     <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" alt="picoCTF " width="60" height="60" />
+  </a>
+  <a href='https://jakarta.ee/' title="since 2023">
+    <img src="https://blog.payara.fish/hs-fs/hubfs/jakarta%20ee-1.jpg?width=403&name=jakarta%20ee-1.jpg" alt="picoCTF " width="60" height="60" />
   </a>
 
 </p>
