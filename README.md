@@ -169,11 +169,7 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
 |                                  | This app empowers owners and delivery staff to manage orders, update the menu, optimize deliveries, and add new products to the system effortlessly.                |
 
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaka-james&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaka-james&langs_count=8)](https://github.com/isaka-james/github-readme-stats)
+### My Git Streak
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-james" alt="GitHub Streak" />
