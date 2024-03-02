@@ -1,0 +1,282 @@
+
+<svg id="gh-dark-mode-only" width="380" height="230" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+#background {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  fill: white;
+  stroke: rgb(225, 228, 232);
+  stroke-width: 1px;
+  rx: 6px;
+  ry: 6px;
+}
+
+#gh-dark-mode-only:target #background {
+  fill: #0d1117;
+  stroke-width: 0.5px;
+}
+
+foreignObject {
+  width: calc(100% - 10px - 32px);
+  height: calc(100% - 10px - 24px);
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(36, 41, 46);
+  fill: rgb(36, 41, 46);
+}
+
+#gh-dark-mode-only:target h2 {
+  color: #c9d1d9;
+  fill: #c9d1d9;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li {
+  display: inline-flex;
+  font-size: 12px;
+  margin-right: 2ch;
+  align-items: center;
+  flex-wrap: nowrap;
+  transform: translateX(-500%);
+  animation: slideIn 2s ease-in-out forwards;
+}
+
+@keyframes slideIn {
+  to {
+    transform: translateX(0);
+  }
+}
+
+div.ellipsis {
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.octicon {
+  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;
+}
+
+#gh-dark-mode-only:target .octicon {
+  color: #8b949e;
+  fill: #8b949e;
+}
+
+.progress {
+  display: flex;
+  height: 8px;
+  overflow: hidden;
+  background-color: rgb(225, 228, 232);
+  border-radius: 6px;
+  outline: 1px solid transparent;
+  margin-bottom: 1em;
+}
+
+#gh-dark-mode-only:target .progress {
+  background-color: rgba(110, 118, 129, 0.4);
+}
+
+.progress-item {
+  outline: 2px solid rgb(225, 228, 232);
+  border-collapse: collapse;
+}
+
+#gh-dark-mode-only:target .progress-item {
+  outline: 2px solid #393f47;
+}
+
+.lang {
+  font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);
+}
+
+#gh-dark-mode-only:target .lang {
+  color: #c9d1d9;
+}
+
+.percent {
+  color: rgb(88, 96, 105)
+}
+
+#gh-dark-mode-only:target .percent {
+  color: #8b949e;
+}
+</style>
+<g>
+<rect x="5" y="5" id="background"/>
+<g>
+<foreignObject x="21" y="17" width="318" height="176">
+<div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
+
+<h2>isaka-james' Collection</h2>
+
+<div>
+<span class="progress">
+<span style="background-color: #DC143C;width: 7.7803612949382925%;" class="progress-item"></span><span style="background-color: #F0E68C;width: 8.406367376140226%;" class="progress-item"></span><span style="background-color: #C71585;width: 6.70720801287784%;" class="progress-item"></span><span style="background-color: #800080;width: 7.690931854766589%;" class="progress-item"></span><span style="background-color: #FFC0CB;width: 8.826685744947236%;" class="progress-item"></span><span style="background-color: #ADD8E6;width: 7.3332140940797705%;" class="progress-item"></span><span style="background-color: #98FB98;width: 5.991772491504203%;" class="progress-item"></span><span style="background-color: #90EE90;width: 7.959220175281702%;" class="progress-item"></span><span style="background-color: #FF6347;width: 6.260060812019316%;" class="progress-item"></span><span style="background-color: #D3959B;width: 8.612055088535145%;" class="progress-item"></span><span style="background-color: #7FFFD4;width: 7.950277231264533%;" class="progress-item"></span><span style="background-color: #A52A2A;width: 7.601502414594884%;" class="progress-item"></span><span style="background-color: #FFA500;width: 8.880343409050258%;" class="progress-item"></span>
+</span>
+</div>
+
+<ul>
+
+
+
+
+<li style="animation-delay: 0ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DC143C;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">Java</span>
+<span class="percent">87.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#F0E68C;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">JavaScript</span>
+<span class="percent">94.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C71585;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">C</span>
+<span class="percent">75.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#800080;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">C++</span>
+<span class="percent">86.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FFC0CB;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">PHP</span>
+<span class="percent">98.7%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ADD8E6;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">Python</span>
+<span class="percent">82.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#98FB98;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">Rust</span>
+<span class="percent">67.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 1050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#90EE90;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">Kotlin</span>
+<span class="percent">89.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 1200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FF6347;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">GO</span>
+<span class="percent">70.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 1350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#D3959B;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">SVG</span>
+<span class="percent">96.3%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 1500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7FFFD4;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">Dart</span>
+<span class="percent">88.9%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 1650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#A52A2A;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">TypeScript</span>
+<span class="percent">85.0%</span>
+</li>
+
+
+    
+
+
+<li style="animation-delay: 1800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FFA500;" viewBox="0 0 16 16" version="1.1" width="16" height="16"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+<span class="lang">Bash</span>
+<span class="percent">99.3%</span>
+</li>
+
+
+    
+
+
+</ul>
+
+</div>
+</foreignObject>
+</g>
+</g>
+</svg>
+

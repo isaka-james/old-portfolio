@@ -72,6 +72,7 @@
   </a>
 
 </p>
+<img src="isaka-james-languages.svg" alt="isaka-james' languages"/>
 
 ### Frameworks and Tools
 <p align="right">
@@ -128,6 +129,11 @@
   </a>
 
 </p>
+<img src="isaka-james-frameworks.svg" alt="isaka-james' languages"/>
+
+
+## Hobbies
+<img src="isaka-james-hobbies.svg" alt="hobbies">
 
 ### Notable Websites
 
