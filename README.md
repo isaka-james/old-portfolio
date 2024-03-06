@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Well, I'm Isaka-James 🤵‍♂️</h1>
-  <h3>A Small Kindness from <a href='https://www.mbeya.go.tz/'>Mbeya 🇹🇿</a></h3>
+  <h3><a href='https://www.mbeya.go.tz/'>Mbeya 🇹🇿</a></h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=isaka-james&label=Profile%20views&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **GO**
 - 💬 Ask me about **web design**,**app development** and **Web & App security**
-- ⚡ Fun fact: *You know it's your lucky day, when it runs on the first try ⚡* .
+- ⚡ Fun fact: *You know it's your lucky day, when it runs on the first try* :trollface: ⚡.
 
 #### My Favourite Quote:
 > "Try to be useful"
@@ -46,6 +46,10 @@
 
 ## Hobbies
 <img src="isaka-james-hobbies.svg" alt="hobbies">
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" height="150" alt="coder"/>
+</div>
 
 ### Notable Websites
 
