@@ -85,8 +85,17 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
 |                                  | This app empowers owners and delivery staff to manage orders, update the menu, optimize deliveries, and add new products to the system effortlessly.                |
 
 
-### My Git Streak
 
+<div align="center" style="margin-top=20px">
+    <img align="center" src="https://i.pinimg.com/originals/ef/03/f8/ef03f898ffa6f5eac9a37622cd73cd4b.gif"   alt="I never finish" />
+  
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-james" alt="GitHub Streak"  />
+  <h3> Always be Grateful! </h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-james" alt="GitHub Streak" />
+        🚀 <a href="https://github.com/isaka-james">masterplan</a>
 </p>
+
+  
+</div>
+
