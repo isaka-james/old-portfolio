@@ -30,12 +30,17 @@
 > "Try to be useful"
 — Elon Musk
 
-##### GitHub Ranking:
+
+<details>
+<summary><h3></h3><b>Click to see my GitHub Rank in Tanzania🇹🇿:</b></h3></summary>
   <p>
     <a href="https://github.com/isaka-james/top">
       <img src="https://toppers-nation.vercel.app/?name=isaka-james&country=tanzania" />
     </a>
   </p>
+</details>
+
+
   
 ### Languages
 <img src="https://svg-go-production.up.railway.app/api/svg?name1=isack-james's+Collection&name2=Java=87,JavaScript=94,C=75,C%2B%2B=90,PHP=99,Python=88,Rust=67,Kotlin=84,GO=70,SVG=97,Dart=79,TypeScript=85,Bash=99" alt="isaka-james' languages"/>
@@ -43,9 +48,11 @@
 ### Frameworks and Tools
 <img src="https://svg-go-production.up.railway.app/api/svg?name1=isack-james's+Frameworks+and+Tools&name2=laravel=89,Angular=86,Flutter=80,WordPress=94,Actix=61,Gin=65,Jakarta-EE=90,Open-CV=82,Flask=92,picoCTF=85,Git=79,Linux-Enviroment=94,ReactJS/ThreeJS=50" alt="isaka-james' tools"/>
 
-
-## Hobbies
+<details>
+<summary><h3></h3><b>Click to see my Hobbies:</b></h3></summary>
 <img src="https://svg-go-production.up.railway.app/api/svg?name1=isack-james's+Hobbies&name2=Coding=96,Travelling=85,Vintage+Classics=92,Philosophy=75,Research=76,Project+Management=82,Philanthropist=90,BasketBall=65,Painting=80,Learning+new+Stuffs=89" alt="hobbies">
+</details>
+
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" height="150" alt="coder"/>
