@@ -46,7 +46,7 @@
 <img src="https://svg-go-production.up.railway.app/api/svg?name1=isack-james's+Collection&name2=Java=87,JavaScript=94,C=75,C%2B%2B=90,PHP=99,Python=88,Rust=67,Kotlin=84,GO=70,SVG=97,Dart=79,TypeScript=85,Bash=99" alt="isaka-james' languages"/>
 
 ### Frameworks and Tools
-<img src="https://svg-go-production.up.railway.app/api/svg?name1=isack-james's+Frameworks+and+Tools&name2=laravel=89,Angular=86,Flutter=80,WordPress=94,Actix=61,Gin=65,Jakarta-EE=90,Open-CV=82,Flask=92,picoCTF=85,Git=79,Linux-Enviroment=94,ReactJS/ThreeJS=50" alt="isaka-james' tools"/>
+<img src="https://svg-go-production.up.railway.app/api/svg?name1=isack-james's+Frameworks+and+Tools&name2=laravel=89,Angular=86,Flutter=80,WordPress=94,Actix=61,Gin=65,Jakarta-EE=90,Open-CV=82,Flask=92,picoCTF=85,Git=79,Linux-Enviroment=94,ReactJS=50" alt="isaka-james' tools"/>
 
 <details>
 <summary><h3></h3><b>Click to see my Hobbies:</b></h3></summary>
