@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('./assets/css/themify-icons.css');
+@import url('./assets/css/bootstrap.css');
+@import url('./assets/vendor/animate/animate.css');
+@import url('./assets/vendor/owl-carousel/owl.carousel.css');
+/*@import url('./assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css');*/
+@import url('./assets/vendor/nice-select/css/nice-select.css');
+@import url('./assets/vendor/fancybox/css/jquery.fancybox.min.css');
+@import url('./assets/css/virtual.css');
+@import url('./assets/css/minibar.virtual.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+
+*{
+    /* This is for pros responsive */
+    min-width: 0 !important;
+}

@@ -1,0 +1,24 @@
+<!-- Awards page -->
+<div class="vg-page page-blog" id="awards">
+    <h1 class="text-center fg-dark wow fadeInUp">Awards and Certificates</h1>
+    <div class="container">
+      <div class="row post-grid">
+        
+        
+        <div *ngFor="let award of awards" class="col-md-6 col-lg-4 wow fadeInUp">
+          <div class="img-place"  [attr.data-src]=" award.photo.toString()" data-fancybox> <!-- the one which pops up -->
+            <div class="card">
+              <img src="{{ award.photo }}" alt="{{ award.description}}">
+              <div class="caption">
+                <a href="javascript:void(0)" class="post-category">{{ award.title }}</a>
+                <a href="#" class="post-title">{{ award.description}} </a>
+                <span class="post-date"><span class="sr-only">Received on</span>{{ award.date }}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- End Awards page -->

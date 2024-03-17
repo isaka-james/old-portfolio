@@ -1,0 +1,32 @@
+<!-- Portfolio page -->
+<div class="vg-page page-portfolio" id="portfolio">
+  <div class="container">
+    <div class="text-center wow fadeInUp">
+      <div class="badge badge-subhead">Portfolio</div>
+    </div>
+    <h1 class="text-center fw-normal wow fadeInUp"> Works Passed through my Hands</h1>
+    <div class="filterable-button py-3 wow fadeInUp" data-toggle="selected">
+      <button class="btn btn-theme-outline selected" data-filter="*">All</button>
+      <button *ngFor="let category of categories" class="btn btn-theme-outline" [attr.data-filter]="'.'+category.sign">{{ category.full }}</button>
+    </div>
+
+    <div class="gridder my-3">
+      <!--  -->
+      <a *ngFor="let work of work" [attr.href]="work.link" target="_blank">
+        <div class="grid-item {{work.type}} wow zoomIn">
+          <div class="img-place" [attr.data-src]="work.photo">
+            <img [attr.src]="work.photo" alt="">
+            <div class="img-caption">
+              <h5 class="fg-theme">{{ work.title }}</h5>
+              <p> {{ work.description }}</p>
+            </div>
+          </div>
+        </div>
+      </a>
+      
+    </div>
+    <!-- End gridder -->
+
+  </div>
+</div>
+<!-- End Portfolio page -->
