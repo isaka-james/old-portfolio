@@ -76,6 +76,8 @@ Welcome to my realm of digital craftsmanship. I have made alot of websites.Here,
 |                                 | Curate moments that etch memories for a lifetime.                                           |
 | [Online Translator](https://translator-angular.vercel.app/)                     | The site made in angular for translating real time texts.                  |
 |                                 | Inspired by google translate, I made a backend api for translating using Flask, then intergrating with this angular web application.                           |
+| [Typing Speed Meter](https://isaka-james.github.io/test-your-typing-speed/)                     | Measure your typing speed, the words are organized using the algorithm making harder to hit 50WPM, wanna try?         |
+|                                 | Inspired by 10fastfingers                          |
 
 These websites are not mere URLs; they are digital narratives, each carrying a piece of my dedication and innovation. Explore, engage, and experience the essence of my craftsmanship.
 
