@@ -23,7 +23,7 @@
 ### About Me 🤵‍♂️
 
 - 🌱 I’m currently learning **GO**
-- 💬 Ask me about **web design**,**app development** and **Web & App security**
+- 💬 Portfolio: isaka-james.vercel.app
 - ⚡ Fun fact: *You know it's your lucky day, when it runs on the first try* :trollface: ⚡.
 
 #### My Favourite Quote:
