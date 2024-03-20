@@ -23,7 +23,7 @@
 ### About Me 🤵‍♂️
 
 - 🌱 I’m currently learning **GO**
-- 💬 Portfolio: https://isaka-james.vercel.app
+- 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
 - ⚡ Fun fact: *You know it's your lucky day, when it runs on the first try* :trollface: ⚡.
 
 #### My Favourite Quote:
