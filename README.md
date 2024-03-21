@@ -93,11 +93,13 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
 | [Cafe](https://github.com/isaka-james/cafe-owner-android-application)   | A Owner/Deliver android application for managing orders                |
 |                                  | This app empowers owners and delivery staff to manage orders, update the menu, optimize deliveries, and add new products to the system effortlessly.                |
 
-
-
+<div align="center">
+ <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/0*GjvouQXgr4ujzMI4.gif" height="350"  alt="I never finish" />
+</div>
 <div align="center" style="margin-top=20px">
-    <img align="center" src="https://i.pinimg.com/originals/ef/03/f8/ef03f898ffa6f5eac9a37622cd73cd4b.gif"   alt="I never finish" />
-  
+   
+
+
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-james" alt="GitHub Streak"  />
   <h3> Always be Grateful! </h3>
