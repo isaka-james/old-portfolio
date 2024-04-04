@@ -22,7 +22,7 @@
 
 ### About Me 🤵‍♂️
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently: *I am documenting Laravel [line by line](https://github.com/isaka-james/laravel-analysis) from scratch.*
 - 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
 - ⚡ Fun fact: *You know it's your lucky day, when it runs on the first try* :trollface: ⚡.
 
