@@ -104,7 +104,7 @@ Apparently I found myself developing awesome apps, same spirit of **awesome UI**
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-james" alt="GitHub Streak"  />
   <h3> Always be Grateful! </h3>
 <p>
-        🚀 <a href="https://github.com/isaka-james">masterplan</a>
+        🚀 <a href="isaka-james.vercel.app">masterplan</a>
 </p>
 
   
