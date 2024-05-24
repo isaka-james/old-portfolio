@@ -2,9 +2,10 @@
 
 ### About Me 🤵‍♂️
 
-- 🌱 I’m currently: *I am documenting Laravel [line by line](https://github.com/isaka-james/laravel-analysis) from scratch.*
+- 🌱 I’m currently: *I am developing [UDOM timetable App](https://github.com/isaka-james/udom-timetable-app) using Flutter.*
 - 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
 - 🌐 LinkedIn: [isaka-james](https://www.linkedin.com/in/isaka-james)
+- 📁 My CV: [CV](https://github.com/isaka-james/portfolio-wordpress/blob/main/cv.pdf)
 - ⚡ Fun fact: *I am a retired web developer!*
 
 #### My Favourite Quote:
