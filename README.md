@@ -2,7 +2,7 @@
 
 ### About Me 🤵‍♂️
 
-- 🌱 I’m currently: *I am developing [UDOM timetable App](https://github.com/isaka-james/udom-timetable-app) using Flutter.*
+- 🌱 I’m currently: *I am developing [UDOM timetable App](https://github.com/isaka-james/udom-timetable-app) using Flutter. Also I contribute to this programming Language called [Nuru](https://github.com/NuruProgramming/Nuru).*
 - 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
 - 🌐 LinkedIn: [isaka-james](https://www.linkedin.com/in/isaka-james)
 - 📁 My CV: [CV](https://github.com/isaka-james/portfolio-wordpress/blob/main/cv.pdf)
