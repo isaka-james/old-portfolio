@@ -16,9 +16,9 @@ export class PersonalinfoService {
       'description': 'Powering startups companies in Tanzania through low budget with high quality softwares.',
       'from': 'Mbeya, Tanzania',
       'live': 'Dodoma, Tanzania',
-      'born': 2002,
+      'born': 0,
       'gender': 'Male',
-      'phone': '+255 673 182 989',
+      'phone': 'mr.isakajames@gmail.com',
       'slogan': 'Powering startups companies in Tanzania through low budget with high quality softwares.'
     };
   }
