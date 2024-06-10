@@ -16,7 +16,7 @@ export class ContactsService {
       'linkedin': 'https://www.linkedin.com/in/isaka-james-0297a8247/',
       'youtube': '',
       'email': 'mr.isakajames@gmail.com',
-      'phone1': '+255 673 182 989',
+      'phone1': '',
       'phone2': '',
     }
   }
