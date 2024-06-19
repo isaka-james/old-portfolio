@@ -6,7 +6,7 @@
 - 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
 - 🌐 LinkedIn: [isaka-james](https://www.linkedin.com/in/isaka-james)
 - 📁 My CV: [CV](https://github.com/isaka-james/portfolio-wordpress/blob/main/cv.pdf)
-- ⚡ Fun fact: *There are 10 types of people in the world: those who understand binary, and those who don’t.*
+- ⚡ Fun fact: *If you think it's easy, why you didn't do it?.*
 
 #### My Favourite Quote:
 > "Try to be useful"
