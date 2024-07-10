@@ -10,8 +10,7 @@
 - ⚡ July Meme:  `I have a joke on programming, but it only works on my computer.`
 
 #### My Favourite Quote:
-> "Talk is cheap. Show me the code."
- - Linus Torvalds
+> "Talk is cheap. Show me the code." - Linus Torvalds
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
