@@ -7,7 +7,7 @@
 - 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
 - 🌐 LinkedIn: [isaka-james](https://www.linkedin.com/in/isaka-james)
 - 📁 My Resume: [Resume PDF](/src/assets/img/work/resume.pdf)
-- ⚡ July Meme:  `I have a joke on programming, but it only works on my computer.`
+- ⚡ Hard to Admit:  `There is ALWAYS someone BETTER Than You!`
 
 #### My Favourite Quote:
 > "Talk is cheap. Show me the code." - Linus Torvalds
