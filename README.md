@@ -3,11 +3,9 @@
 ### About Me 🤵‍♂️
 
 - 🌱 I’m currently: *developing [UDOM timetable App](https://github.com/isaka-james/udom-timetable-app) using Flutter.* 
-- ⭐ [Nuru Programming Language](https://github.com/NuruProgramming/Nuru) : *I contribute to this sometimes.*
-- 💬 Portfolio: [isaka-james](https://isaka-james.vercel.app)
+- ⭐ [Nuru Programming Language](https://github.com/NuruProgramming/Nuru) : *I contribute to this sometimes. Come to show Support!*
 - 🌐 LinkedIn: [isaka-james](https://www.linkedin.com/in/isaka-james)
-- 📁 My Resume: [Resume PDF](/src/assets/img/work/resume.pdf)
-- ⚡ Hard to Admit:  `There is ALWAYS someone BETTER Than You!`
+- ⚡ Fun Fact:  `I code in my Free Time ☕`
 
 #### My Favourite Quote:
 > "Talk is cheap. Show me the code." - Linus Torvalds
