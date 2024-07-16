@@ -8,7 +8,7 @@
 - ⚡ Fun Fact:  `I code in my Free Time ☕`
 
 #### My Favourite Quote:
-> "Talk is cheap. Show me the code." - Linus Torvalds
+> "Try to be Useful." - Elon Musk
 
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
